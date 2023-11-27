@@ -1,0 +1,82 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body {
+  background-image: linear-gradient(mediumpurple, pink);
+}
+h1 {
+  font-family: Calibri, sans-serif;
+  text-align: center;
+  color: indigo;
+  line-height: 20px;
+}
+h3 {
+  font-family: Calibri, sans-serif;
+  text-align: center;
+  color: mediumpurple;
+  font-weight: bold;
+}
+#white {
+  background: rgb(242, 204, 255, 0.5);
+  padding: 10px;
+}
+.lightpurple {
+  color: blueviolet;
+  font-family: Calibri, sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+  text-decoration: none;
+  padding: 10px;
+  margin: 10px;
+}
+#sections {
+  background: rgb(255,255,255, 0.5);
+  padding: 10px;
+  text-align: center;
+  position: fixed top 0px left 0px;
+}
+p {
+  font-family: 'Comfortaa', sans-serif;
+  text-align: center;
+  color: purple;
+  font-size: 15px;
+}
+h2 {
+  font-family: Calibri, sans-serif;
+  text-align: center;
+  color: indigo;
+  font-weight: bold;
+  line-height: 20px;
+}
+a {
+  margin: 10px;
+  padding: 10px;
+  text-decoration: none;
+  color: white;
+  font-family: 'Comfortaa', sans-serif;
+}
+#about-me {
+  background: rgb(255, 179, 255, 0.3);
+  padding: 10px;
+}
+#news{
+  border: 10px;
+  border-style: dotted;
+  border-color: rgb(255, 179, 179, 0.3);
+  padding: 10px;
+}
+#socials {
+  text-align: center;
+  line-height: 50px;
+  background: rgb(255, 230, 230, 0.3);
+  padding: 10px;
+}
+.home {
+  font-family: Calibri, sans-serif;
+  text-align: center;
+  color: hotpink;
+  font-size: 20px;
+  padding: 10px;
+  font-weight: bold;
+}
